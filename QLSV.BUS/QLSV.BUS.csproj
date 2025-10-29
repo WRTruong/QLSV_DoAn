@@ -53,6 +53,12 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="services\DiemService.cs" />
+    <Compile Include="services\KhoaService.cs" />
+    <Compile Include="services\LopService.cs" />
+    <Compile Include="services\MonHocService.cs" />
+    <Compile Include="services\SinhVienService.cs" />
+    <Compile Include="services\TaiKhoanService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
