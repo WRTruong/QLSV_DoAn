@@ -1,6 +1,6 @@
 ﻿namespace QLSV.GUI.NewFolder1
 {
-    partial class Form1
+    partial class frmMain
     {
         /// <summary>
         /// Required designer variable.
